@@ -2,15 +2,34 @@
 
 #### 动态规划
 
-- leetCode 91
-- leetCode 139
-- leetCode 198
-- leetCode 309
-- leetCode 322
-- leetCode 416
-- leetCode 518
+- LeetCode 91
+- LeetCode 139
+- LeetCode 198
+- LeetCode 309
+- LeetCode 322
+- LeetCode 416
+- LeetCode 518
 
- 
+###### 背包问题
+
+###### 数位dp
 
 #### 贪心
 
+- LeetCode 55
+
+- LeetCode 452
+
+- LeetCode 11
+
+- LeetCode 56
+
+- LeetCode 57
+
+- LeetCode 986
+
+- LeetCode 435
+
+- LeetCode 1288
+
+  
