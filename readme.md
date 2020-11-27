@@ -2,13 +2,13 @@
 
 #### 动态规划
 
-- LeetCode 91
-- LeetCode 139
-- LeetCode 198
-- LeetCode 309
-- LeetCode 322
-- LeetCode 416
-- LeetCode 518
+- **[中等]**LeetCode 91
+- **[中等]**LeetCode 139
+- **[简单]**LeetCode 198
+- **[困难]**LeetCode 309
+- **[困难]**LeetCode 322
+- **[困难]**LeetCode 416
+- **[困难]**LeetCode 518
 
 ###### 背包问题
 
