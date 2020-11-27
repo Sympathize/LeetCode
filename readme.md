@@ -2,17 +2,16 @@
 
 #### 动态规划
 
-- **[中等]**LeetCode 91
-- **[中等]**LeetCode 139
-- **[简单]**LeetCode 198
-- **[困难]**LeetCode 309
-- **[困难]**LeetCode 322
-- **[困难]**LeetCode 416
-- **[困难]**LeetCode 518
+- **[中等]** LeetCode 91
+- **[中等]** LeetCode 139
+- **[简单]** LeetCode 198
+- **[中等]** LeetCode 309
+- **[中等]** LeetCode 322
+- **[中等]** LeetCode 518
 
 ###### 背包问题
 
-- LeetCode 416
+- **[中等]** LeetCode 416
 
 ###### 数位dp
 
@@ -22,15 +21,15 @@
 
 #### 贪心
 
-- LeetCode 55
-- LeetCode 452
-- LeetCode 11
-- LeetCode 56
-- LeetCode 57
-- LeetCode 986
-- LeetCode 435
-- LeetCode 1288
+- **[简单]** LeetCode 55
+- **[中等]** LeetCode 452
+- **[中等]** LeetCode 11
+- **[中等]** LeetCode 56
+- **[困难]** LeetCode 57
+- **[中等]** LeetCode 986
+- **[中等]** LeetCode 435
+- **[中等]** LeetCode 1288
 
 ###### 滑动窗口
 
-- LeetCode 1658
+- **[中等]** LeetCode 1658
