@@ -23,7 +23,6 @@
 
 - **[简单]** LeetCode 55
 - **[中等]** LeetCode 452
-- **[中等]** LeetCode 11
 - **[中等]** LeetCode 56
 - **[困难]** LeetCode 57
 - **[中等]** LeetCode 986
@@ -33,3 +32,9 @@
 ###### 滑动窗口
 
 - **[中等]** LeetCode 1658
+
+###### 缩减搜索空间
+
+- **[中等]** LeetCode 167
+- **[中等]** LeetCode 240
+- **[中等]** LeetCode 11
